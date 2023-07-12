@@ -1,3 +1,6 @@
+![image](https://github.com/Almudena-Rendon/travel-list/assets/126793941/fbc979ee-3cd8-4c71-88c6-632bd52d79ee)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
