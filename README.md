@@ -1,6 +1,6 @@
 ![image](https://github.com/Almudena-Rendon/travel-list/assets/126793941/fbc979ee-3cd8-4c71-88c6-632bd52d79ee)
 
-👉 View the live demo https://travel-list-dusky.vercel.app/
+👉 Try the live demo https://travel-list-dusky.vercel.app/
 
 # Getting Started with Create React App
 
